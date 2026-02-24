@@ -1,0 +1,41 @@
+:root {
+            --bg: #070a12;
+            --card-bg: #303031;
+            --text-main: #ffffff;
+            --text-muted: #fefefe;
+            --accent: #12eb4c;
+            --border: #e2e8f0;
+}
+
+body { font-family: 'Montserrat', sans-serif; background-color: var(--bg); color: var(--text-main); margin: 0; padding: 40px 20px; }
+.container { max-width: 1000px; margin: auto; }
+
+/* Header / Profile Section */
+.profile-header { display: flex; align-items: center; gap: 20px; margin-bottom: 40px; }
+.avatar { width: 100px; height: 100px; border-radius: 50%; border: 4px solid white; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+.bio h1 { margin: 0; font-size: 2rem; }
+.bio p { color: var(--text-muted); margin: 5px 0 0; }
+
+/* Stats Grid (The BI Look) */
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px; }
+.stat-card { background: var(--card-bg); padding: 20px; border-radius: 12px; border: 1px solid var(--border); text-align: center; }
+.stat-value { font-size: 1.8rem; font-weight: 600; color: var(--accent); display: block; }
+.stat-label { color: var(--text-muted); text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1px; }
+
+/* Main Content Layout */
+.main-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 30px; }
+h2 { font-size: 1.25rem; margin-bottom: 20px; border-left: 4px solid var(--accent); padding-left: 10px; }
+
+/* Project Cards */
+.project-card { background: var(--card-bg); padding: 20px; border-radius: 12px; border: 1px solid var(--border); margin-bottom: 15px; transition: 0.2s; }
+.project-card:hover { transform: translateY(-3px); border-color: var(--accent); }
+.project-title { font-weight: 600; color: var(--accent); text-decoration: none; font-size: 1.1rem; }
+.project-desc { font-size: 0.9rem; color: var(--text-muted); margin: 10px 0; }
+.lang-tag { display: inline-block; background: #eff6ff; color: #1e40af; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
+
+/* Activity Feed */
+.activity-item { font-size: 0.85rem; padding: 12px 0; border-bottom: 1px solid var(--border); }
+.activity-item:last-child { border: none; }
+.activity-date { color: var(--text-muted); font-size: 0.75rem; }
+
+@media (max-width: 768px) { .main-grid { grid-template-columns: 1fr; } }

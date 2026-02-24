@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Developer Showcase</title>
+    <!-- Simple, modern font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css">
+    <script src="script/script.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <div class="profile-header" id="profile">
+        <!-- Will be filled by JS -->
+    </div>
+
+    <div class="stats-grid">
+        <div class="stat-card">
+            <span class="stat-value" id="repo-count">0</span>
+            <span class="stat-label">Public Repos</span>
+        </div>
+        <div class="stat-card">
+            <span class="stat-value" id="follower-count">0</span>
+            <span class="stat-label">Followers</span>
+        </div>
+        <div class="stat-card">
+            <span class="stat-value" id="star-count">0</span>
+            <span class="stat-label">Total Stars</span>
+        </div>
+    </div>
+
+    <div class="main-grid">
+        <section>
+            <h2>Top Repositories</h2>
+            <div id="projects-list">Loading projects...</div>
+        </section>
+
+        <aside>
+            <h2>Recent Activity</h2>
+            <div id="activity-list">Loading feed...</div>
+        </aside>
+    </div>
+</div>
+
+</body>
+</html>
