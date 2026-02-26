@@ -15,10 +15,14 @@ async function run() {
     const reposRes = await fetch(`https://api.github.com/users/${username}/repos?per_page=100`, { headers });
     const repos = await reposRes.json();
 
+    const eventsRes = await fetch(`https://api.github.com/users/${username}/events/public?per_page=10`, { headers });
+    const events = await eventsRes.json();
+
     // Create one big object
     const finalData = {
         user: user,
         repos: repos,
+        events: events,
         lastUpdated: new Date().toLocaleString()
     };
 
