@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run Fetch Script
-        run: node scripts/fetch_data.js
+        run: node script/fetch_data.js
         env:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # Pulls from your vault
       - name: Save file to repo
