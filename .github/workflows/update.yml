@@ -3,7 +3,10 @@ on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Allows you to click a button to run it manually
-
+  
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
