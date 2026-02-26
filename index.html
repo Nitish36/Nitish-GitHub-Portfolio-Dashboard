@@ -2,47 +2,81 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Developer Showcase</title>
-    <!-- Simple, modern font -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <title>GitHub Executive Overview</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="style/style.css">
     <script src="script/script.js"></script>
 </head>
 <body>
 
-<div class="container">
-    <div class="profile-header" id="profile">
-        <!-- Will be filled by JS -->
-    </div>
-
-    <div class="stats-grid">
-        <div class="stat-card">
-            <span class="stat-value" id="repo-count">0</span>
-            <span class="stat-label">Public Repos</span>
+    <div class="sidebar">
+        <div class="logo">GITHUB INTEL</div>
+        <div class="filter-group">
+            <label>FISCAL YEAR</label><br>
+            <button class="filter-btn">ALL TIME</button>
         </div>
-        <div class="stat-card">
-            <span class="stat-value" id="follower-count">0</span>
-            <span class="stat-label">Followers</span>
-        </div>
-        <div class="stat-card">
-            <span class="stat-value" id="star-count">0</span>
-            <span class="stat-label">Total Stars</span>
+        <div class="filter-group">
+            <label>DATA SOURCE</label><br>
+            <div style="font-size: 0.7rem; color: var(--accent-cyan);">GitHub REST API v3</div>
         </div>
     </div>
 
-    <div class="main-grid">
-        <section>
-            <h2>Top Repositories</h2>
-            <div id="projects-list">Loading projects...</div>
-        </section>
+    <div class="main-content">
+        <header>
+            <h1>EXECUTIVE OVERVIEW <span style="color: #8b949e; font-size: 0.9rem;">| Activity Insights</span></h1>
+        </header>
 
-        <aside>
-            <h2>Recent Activity</h2>
-            <div id="activity-list">Loading feed...</div>
-        </aside>
+        <!-- Top KPIs -->
+        <div class="kpi-row">
+            <div class="kpi-card stars">
+                <span class="kpi-label">Total Stars</span>
+                <span class="kpi-value" id="total-stars">0</span>
+            </div>
+            <div class="kpi-card repos">
+                <span class="kpi-label">Public Repos</span>
+                <span class="kpi-value" id="total-repos">0</span>
+            </div>
+            <div class="kpi-card followers">
+                <span class="kpi-label">Followers</span>
+                <span class="kpi-value" id="total-followers">0</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-label">Following</span>
+                <span class="kpi-value" id="total-following">0</span>
+            </div>
+        </div>
+
+        <!-- Middle Section: Charts -->
+        <div class="charts-row">
+            <div class="chart-container">
+                <canvas id="lineChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="donutChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Bottom Section: Table -->
+        <div class="tables-row">
+            <div>
+                <h3>TOP REPOSITORIES (by Stars)</h3>
+                <table id="repo-table">
+                    <thead>
+                        <tr><th>Name</th><th>Language</th><th>Stars</th><th>Activity</th></tr>
+                    </thead>
+                    <tbody><!-- Data injected here --></tbody>
+                </table>
+            </div>
+            <div>
+                <h3>RECENT UPDATES</h3>
+                <table id="activity-table">
+                    <thead>
+                        <tr><th>Repo</th><th>Event</th><th>Date</th></tr>
+                    </thead>
+                    <tbody><!-- Data injected here --></tbody>
+                </table>
+            </div>
+        </div>
     </div>
-</div>
-
 </body>
 </html>
