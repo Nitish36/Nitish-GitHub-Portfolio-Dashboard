@@ -33,6 +33,13 @@ async function initDashboard() {
         const user = githubData.user;
         const repos = githubData.repos;
         const events = githubData.events;
+        const header = document.querySelector('header');
+header.innerHTML = `
+    <div style="display: flex; align-items: center; gap: 15px;">
+        <img src="${user.avatar_url}" style="width: 50px; border-radius: 50%; border: 2px solid var(--accent-cyan);">
+        <h1 style="margin:0;">EXECUTIVE OVERVIEW <span style="color:var(--accent-cyan); font-size: 1rem;">| ${user.name || USERNAME}</span></h1>
+    </div>
+`;
 
         // --- PART 1: USER STATS (Using data from file) ---
         document.getElementById('update-time').innerText = "Data refreshed on: " + data.lastUpdated;
@@ -142,4 +149,5 @@ async function initDashboard() {
 
 // Make sure the dashboard runs when the page loads
 document.addEventListener('DOMContentLoaded', initDashboard);
+
 
