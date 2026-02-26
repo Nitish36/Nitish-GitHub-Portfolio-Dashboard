@@ -138,20 +138,30 @@ header.innerHTML = `
 
         // --- PART 5: RECENT ACTIVITY (Using data from file) ---
         const actTable = document.querySelector('#activity-table tbody');
-        actTable.innerHTML = ''; // Clear "Loading" text
-        events.forEach(ev => {
-            const repoName = ev.repo.name.split('/')[1] || ev.repo.name;
-            actTable.innerHTML += `<tr><td>${repoName}</td><td>${ev.type.replace('Event','')}</td><td>${new Date(ev.created_at).toLocaleDateString()}</td></tr>`;
-        });
+        actTable.innerHTML = ''; 
 
-    } catch (error) {
-        console.error("Dashboard Error:", error);
-        // You could add a message on the screen for the user here
-    }
+        // Check if events exists and has data
+        if (events && events.length > 0) {
+            events.forEach(ev => {
+                const repoName = ev.repo.name.split('/')[1] || ev.repo.name;
+                const eventType = ev.type.replace('Event','');
+                const date = new Date(ev.created_at).toLocaleDateString();
+
+                actTable.innerHTML += `
+                    <tr>
+                        <td>${repoName}</td>
+                        <td>${eventType}</td>
+                        <td>${date}</td>
+                    </tr>`;
+            });
+        } else {
+            actTable.innerHTML = '<tr><td colspan="3" style="text-align:center;">No recent public activity found.</td></tr>';
+        }
 }
 
 // Make sure the dashboard runs when the page loads
 document.addEventListener('DOMContentLoaded', initDashboard);
+
 
 
 
