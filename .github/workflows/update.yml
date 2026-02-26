@@ -15,8 +15,8 @@ jobs:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # Pulls from your vault
       - name: Save file to repo
         run: |
-          git config --global user.name "Robot"
-          git config --global user.email "robot@github.com"
+          git config --global user.name "Nitish36"
+          git config --global user.email "1rn19cs092.nitish.pkv@gmail.com"
           git add github-data.json
           git commit -m "Updated data" || exit 0
           git push
