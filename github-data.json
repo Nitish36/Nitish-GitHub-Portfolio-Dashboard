@@ -3930,13 +3930,13 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-02-26T09:54:36Z",
-      "pushed_at": "2026-02-26T09:54:32Z",
+      "updated_at": "2026-02-26T10:12:38Z",
+      "pushed_at": "2026-02-26T10:12:34Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
-      "homepage": null,
+      "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
       "size": 9,
       "stargazers_count": 0,
       "watchers_count": 0,
@@ -3945,7 +3945,7 @@
       "has_projects": true,
       "has_downloads": true,
       "has_wiki": true,
-      "has_pages": false,
+      "has_pages": true,
       "has_discussions": false,
       "forks_count": 0,
       "mirror_url": null,
@@ -3958,7 +3958,11 @@
       "web_commit_signoff_required": false,
       "has_pull_requests": true,
       "pull_request_creation_policy": "all",
-      "topics": [],
+      "topics": [
+        "css",
+        "html",
+        "javascript"
+      ],
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
@@ -6200,5 +6204,5 @@
       }
     }
   ],
-  "lastUpdated": "2/26/2026, 9:55:02 AM"
+  "lastUpdated": "2/26/2026, 10:13:29 AM"
 }
