@@ -3930,8 +3930,8 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-02-26T10:20:33Z",
-      "pushed_at": "2026-02-26T10:20:29Z",
+      "updated_at": "2026-02-26T10:30:48Z",
+      "pushed_at": "2026-02-26T10:30:44Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
@@ -6204,5 +6204,267 @@
       }
     }
   ],
-  "lastUpdated": "2/26/2026, 10:20:53 AM"
+  "events": [
+    {
+      "id": "8826303117",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31120783109,
+        "ref": "refs/heads/main",
+        "head": "abf9a89ee9c24e728c35733ef516ef9e4c81c9bf",
+        "before": "7512ad72a39d7741be711da3b1d3fc36fa074b9d"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:30:44Z"
+    },
+    {
+      "id": "8826253488",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31120733247,
+        "ref": "refs/heads/main",
+        "head": "7512ad72a39d7741be711da3b1d3fc36fa074b9d",
+        "before": "d9a1cee42e8f3ffa3575ea28d07f45c646ac015c"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:29:15Z"
+    },
+    {
+      "id": "8825971888",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31120453395,
+        "ref": "refs/heads/main",
+        "head": "9f5f9fec3d328da9263fba3f4a1ad5afa30ba3eb",
+        "before": "c1e99319165212842582af98c8e3403a53a25191"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:20:30Z"
+    },
+    {
+      "id": "8825768782",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31120198174,
+        "ref": "refs/heads/main",
+        "head": "1a9b34941f6d5e893f68fd769d9b1dd24b49d309",
+        "before": "bb4b1c4a2c385889349da21055f497e1167da7f1"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:12:34Z"
+    },
+    {
+      "id": "8825660641",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31120150009,
+        "ref": "refs/heads/main",
+        "head": "bb4b1c4a2c385889349da21055f497e1167da7f1",
+        "before": "bd92229b7894be6e03aafa53f262d9545aef86e4"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:11:04Z"
+    },
+    {
+      "id": "8825617202",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31120107528,
+        "ref": "refs/heads/main",
+        "head": "bd92229b7894be6e03aafa53f262d9545aef86e4",
+        "before": "26fbb0195e3597d0ba8b359aa2d63756cee8a72e"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:09:46Z"
+    },
+    {
+      "id": "8825094309",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31119598264,
+        "ref": "refs/heads/main",
+        "head": "e9af5c986b4ab2b436c22a94d0a8071e1fa3172d",
+        "before": "676ba68944b2d8b246a256453c54b0a42a5972ce"
+      },
+      "public": true,
+      "created_at": "2026-02-26T09:54:32Z"
+    },
+    {
+      "id": "8824992743",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31119498623,
+        "ref": "refs/heads/main",
+        "head": "676ba68944b2d8b246a256453c54b0a42a5972ce",
+        "before": "f3670559356f67d5aaa1d1c0be27d40e511b9df2"
+      },
+      "public": true,
+      "created_at": "2026-02-26T09:51:29Z"
+    },
+    {
+      "id": "8824961317",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31119241173,
+        "ref": "refs/heads/main",
+        "head": "3362d4bd74f7da3e715b4b194db4354be0b19dc9",
+        "before": "207c3701560826990cae5cf915805193c8360c87"
+      },
+      "public": true,
+      "created_at": "2026-02-26T09:43:23Z"
+    },
+    {
+      "id": "8824906765",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31119415457,
+        "ref": "refs/heads/main",
+        "head": "f3670559356f67d5aaa1d1c0be27d40e511b9df2",
+        "before": "0d0b375e30f3291d7b20b1f0414d920d76a6c8f0"
+      },
+      "public": true,
+      "created_at": "2026-02-26T09:48:50Z"
+    }
+  ],
+  "lastUpdated": "2/26/2026, 10:31:27 AM"
 }
