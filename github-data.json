@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1347028,
+    "disk_usage": 1347144,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3930,14 +3930,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-02-26T10:30:48Z",
-      "pushed_at": "2026-02-26T10:30:44Z",
+      "updated_at": "2026-02-26T10:47:00Z",
+      "pushed_at": "2026-02-26T10:46:56Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 9,
+      "size": 125,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -3951,7 +3951,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 0,
+      "open_issues_count": 1,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -3965,7 +3965,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -6206,6 +6206,348 @@
   ],
   "events": [
     {
+      "id": "8826824858",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "repository_id": 1165651300,
+        "push_id": 31121309284,
+        "ref": "refs/heads/main",
+        "head": "816022efad35089a40041bf72ecbe07af4298d04",
+        "before": "b4286f20c90118175584932771e33f60a3e8c450"
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:46:56Z"
+    },
+    {
+      "id": "6904407961",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "action": "assigned",
+        "issue": {
+          "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1",
+          "repository_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+          "labels_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/labels{/name}",
+          "comments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/comments",
+          "events_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/events",
+          "html_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1",
+          "id": 3994697106,
+          "node_id": "I_kwDORXptZM7uGj2S",
+          "number": 1,
+          "title": "Recent Activity Not working",
+          "user": {
+            "login": "Nitish36",
+            "id": 91598274,
+            "node_id": "U_kgDOBXWtwg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nitish36",
+            "html_url": "https://github.com/Nitish36",
+            "followers_url": "https://api.github.com/users/Nitish36/followers",
+            "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+            "repos_url": "https://api.github.com/users/Nitish36/repos",
+            "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "labels": [],
+          "state": "open",
+          "locked": false,
+          "assignees": [
+            {
+              "login": "Nitish36",
+              "id": 91598274,
+              "node_id": "U_kgDOBXWtwg",
+              "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/Nitish36",
+              "html_url": "https://github.com/Nitish36",
+              "followers_url": "https://api.github.com/users/Nitish36/followers",
+              "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+              "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+              "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+              "repos_url": "https://api.github.com/users/Nitish36/repos",
+              "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            }
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2026-02-26T10:35:12Z",
+          "updated_at": "2026-02-26T10:35:12Z",
+          "closed_at": null,
+          "assignee": {
+            "login": "Nitish36",
+            "id": 91598274,
+            "node_id": "U_kgDOBXWtwg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nitish36",
+            "html_url": "https://github.com/Nitish36",
+            "followers_url": "https://api.github.com/users/Nitish36/followers",
+            "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+            "repos_url": "https://api.github.com/users/Nitish36/repos",
+            "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "active_lock_reason": null,
+          "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+          },
+          "issue_dependencies_summary": {
+            "blocked_by": 0,
+            "total_blocked_by": 0,
+            "blocking": 0,
+            "total_blocking": 0
+          },
+          "body": "Check on this one once",
+          "reactions": {
+            "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "timeline_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/timeline",
+          "performed_via_github_app": null,
+          "state_reason": null,
+          "pinned_comment": null
+        },
+        "assignee": {
+          "login": "Nitish36",
+          "id": 91598274,
+          "node_id": "U_kgDOBXWtwg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Nitish36",
+          "html_url": "https://github.com/Nitish36",
+          "followers_url": "https://api.github.com/users/Nitish36/followers",
+          "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+          "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+          "repos_url": "https://api.github.com/users/Nitish36/repos",
+          "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "assignees": [
+          {
+            "login": "Nitish36",
+            "id": 91598274,
+            "node_id": "U_kgDOBXWtwg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nitish36",
+            "html_url": "https://github.com/Nitish36",
+            "followers_url": "https://api.github.com/users/Nitish36/followers",
+            "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+            "repos_url": "https://api.github.com/users/Nitish36/repos",
+            "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:35:14Z"
+    },
+    {
+      "id": "6904407741",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1165651300,
+        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
+      },
+      "payload": {
+        "action": "opened",
+        "issue": {
+          "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1",
+          "repository_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
+          "labels_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/labels{/name}",
+          "comments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/comments",
+          "events_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/events",
+          "html_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1",
+          "id": 3994697106,
+          "node_id": "I_kwDORXptZM7uGj2S",
+          "number": 1,
+          "title": "Recent Activity Not working",
+          "user": {
+            "login": "Nitish36",
+            "id": 91598274,
+            "node_id": "U_kgDOBXWtwg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nitish36",
+            "html_url": "https://github.com/Nitish36",
+            "followers_url": "https://api.github.com/users/Nitish36/followers",
+            "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+            "repos_url": "https://api.github.com/users/Nitish36/repos",
+            "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "labels": [],
+          "state": "open",
+          "locked": false,
+          "assignees": [
+            {
+              "login": "Nitish36",
+              "id": 91598274,
+              "node_id": "U_kgDOBXWtwg",
+              "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/Nitish36",
+              "html_url": "https://github.com/Nitish36",
+              "followers_url": "https://api.github.com/users/Nitish36/followers",
+              "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+              "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+              "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+              "repos_url": "https://api.github.com/users/Nitish36/repos",
+              "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            }
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2026-02-26T10:35:12Z",
+          "updated_at": "2026-02-26T10:35:12Z",
+          "closed_at": null,
+          "assignee": {
+            "login": "Nitish36",
+            "id": 91598274,
+            "node_id": "U_kgDOBXWtwg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nitish36",
+            "html_url": "https://github.com/Nitish36",
+            "followers_url": "https://api.github.com/users/Nitish36/followers",
+            "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+            "repos_url": "https://api.github.com/users/Nitish36/repos",
+            "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "active_lock_reason": null,
+          "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+          },
+          "issue_dependencies_summary": {
+            "blocked_by": 0,
+            "total_blocked_by": 0,
+            "blocking": 0,
+            "total_blocking": 0
+          },
+          "body": "Check on this one once",
+          "reactions": {
+            "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "timeline_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/issues/1/timeline",
+          "performed_via_github_app": null,
+          "state_reason": null,
+          "pinned_comment": null
+        }
+      },
+      "public": true,
+      "created_at": "2026-02-26T10:35:13Z"
+    },
+    {
       "id": "8826303117",
       "type": "PushEvent",
       "actor": {
@@ -6386,85 +6728,7 @@
       },
       "public": true,
       "created_at": "2026-02-26T09:54:32Z"
-    },
-    {
-      "id": "8824992743",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1165651300,
-        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
-        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
-      },
-      "payload": {
-        "repository_id": 1165651300,
-        "push_id": 31119498623,
-        "ref": "refs/heads/main",
-        "head": "676ba68944b2d8b246a256453c54b0a42a5972ce",
-        "before": "f3670559356f67d5aaa1d1c0be27d40e511b9df2"
-      },
-      "public": true,
-      "created_at": "2026-02-26T09:51:29Z"
-    },
-    {
-      "id": "8824961317",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1165651300,
-        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
-        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
-      },
-      "payload": {
-        "repository_id": 1165651300,
-        "push_id": 31119241173,
-        "ref": "refs/heads/main",
-        "head": "3362d4bd74f7da3e715b4b194db4354be0b19dc9",
-        "before": "207c3701560826990cae5cf915805193c8360c87"
-      },
-      "public": true,
-      "created_at": "2026-02-26T09:43:23Z"
-    },
-    {
-      "id": "8824906765",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1165651300,
-        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
-        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
-      },
-      "payload": {
-        "repository_id": 1165651300,
-        "push_id": 31119415457,
-        "ref": "refs/heads/main",
-        "head": "f3670559356f67d5aaa1d1c0be27d40e511b9df2",
-        "before": "0d0b375e30f3291d7b20b1f0414d920d76a6c8f0"
-      },
-      "public": true,
-      "created_at": "2026-02-26T09:48:50Z"
     }
   ],
-  "lastUpdated": "2/26/2026, 10:31:27 AM"
+  "lastUpdated": "2/26/2026, 10:47:16 AM"
 }
