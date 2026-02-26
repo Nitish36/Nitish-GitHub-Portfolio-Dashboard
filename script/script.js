@@ -42,7 +42,10 @@ header.innerHTML = `
 `;
 
         // --- PART 1: USER STATS (Using data from file) ---
-        document.getElementById('update-time').innerText = "Data refreshed on: " + data.lastUpdated;
+        const updateElement = document.getElementById('update-time');
+        if(updateElement) {
+            updateElement.innerText = "Data refreshed on: " + githubData.lastUpdated;
+        }
         document.getElementById('total-repos').innerText = user.public_repos;
         document.getElementById('total-followers').innerText = user.followers;
         document.getElementById('total-following').innerText = user.following;
@@ -149,5 +152,6 @@ header.innerHTML = `
 
 // Make sure the dashboard runs when the page loads
 document.addEventListener('DOMContentLoaded', initDashboard);
+
 
 
