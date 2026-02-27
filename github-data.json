@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1347496,
+    "disk_usage": 1347529,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3930,14 +3930,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-02-27T10:40:35Z",
-      "pushed_at": "2026-02-27T10:40:31Z",
+      "updated_at": "2026-02-27T11:34:32Z",
+      "pushed_at": "2026-02-27T11:34:29Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 472,
+      "size": 505,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -4725,7 +4725,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -4740,7 +4740,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 1,
+      "open_issues": 2,
       "watchers": 1,
       "default_branch": "main",
       "permissions": {
@@ -6206,6 +6206,152 @@
   ],
   "events": [
     {
+      "id": "6941963716",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1123100764,
+        "name": "Nitish36/Rasya-Traditions",
+        "url": "https://api.github.com/repos/Nitish36/Rasya-Traditions"
+      },
+      "payload": {
+        "action": "reopened",
+        "issue": {
+          "url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3",
+          "repository_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions",
+          "labels_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/labels{/name}",
+          "comments_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/comments",
+          "events_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/events",
+          "html_url": "https://github.com/Nitish36/Rasya-Traditions/issues/3",
+          "id": 3993326760,
+          "node_id": "I_kwDOQvEoXM7uBVSo",
+          "number": 3,
+          "title": "Loading Screen",
+          "user": {
+            "login": "Thanujak16",
+            "id": 119279936,
+            "node_id": "U_kgDOBxwRQA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/119279936?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Thanujak16",
+            "html_url": "https://github.com/Thanujak16",
+            "followers_url": "https://api.github.com/users/Thanujak16/followers",
+            "following_url": "https://api.github.com/users/Thanujak16/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Thanujak16/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Thanujak16/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Thanujak16/subscriptions",
+            "organizations_url": "https://api.github.com/users/Thanujak16/orgs",
+            "repos_url": "https://api.github.com/users/Thanujak16/repos",
+            "events_url": "https://api.github.com/users/Thanujak16/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Thanujak16/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "labels": [
+            {
+              "id": 9890291342,
+              "node_id": "LA_kwDOQvEoXM8AAAACTYHejg",
+              "url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/labels/enhancement",
+              "name": "enhancement",
+              "color": "a2eeef",
+              "default": true,
+              "description": "New feature or request"
+            }
+          ],
+          "state": "open",
+          "locked": false,
+          "assignees": [
+            {
+              "login": "Nitish36",
+              "id": 91598274,
+              "node_id": "U_kgDOBXWtwg",
+              "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/Nitish36",
+              "html_url": "https://github.com/Nitish36",
+              "followers_url": "https://api.github.com/users/Nitish36/followers",
+              "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+              "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+              "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+              "repos_url": "https://api.github.com/users/Nitish36/repos",
+              "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            }
+          ],
+          "milestone": null,
+          "comments": 1,
+          "created_at": "2026-02-26T05:10:01Z",
+          "updated_at": "2026-02-27T12:16:50Z",
+          "closed_at": null,
+          "assignee": {
+            "login": "Nitish36",
+            "id": 91598274,
+            "node_id": "U_kgDOBXWtwg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Nitish36",
+            "html_url": "https://github.com/Nitish36",
+            "followers_url": "https://api.github.com/users/Nitish36/followers",
+            "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
+            "organizations_url": "https://api.github.com/users/Nitish36/orgs",
+            "repos_url": "https://api.github.com/users/Nitish36/repos",
+            "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Nitish36/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "active_lock_reason": null,
+          "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+          },
+          "issue_dependencies_summary": {
+            "blocked_by": 0,
+            "total_blocked_by": 0,
+            "blocking": 0,
+            "total_blocking": 0
+          },
+          "body": "Hey I got an idea for you. Can u implement a loading screen for the website so it looks more realistic. U can use the logo which I have suggested to you",
+          "reactions": {
+            "url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "timeline_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/timeline",
+          "performed_via_github_app": null,
+          "state_reason": "reopened",
+          "pinned_comment": null
+        }
+      },
+      "public": true,
+      "created_at": "2026-02-27T12:16:52Z"
+    },
+    {
       "id": "8857257704",
       "type": "PushEvent",
       "actor": {
@@ -6292,7 +6438,7 @@
               "description": "New feature or request"
             }
           ],
-          "state": "closed",
+          "state": "open",
           "locked": false,
           "assignees": [
             {
@@ -6320,8 +6466,8 @@
           "milestone": null,
           "comments": 1,
           "created_at": "2026-02-26T05:10:01Z",
-          "updated_at": "2026-02-27T05:23:57Z",
-          "closed_at": "2026-02-27T05:23:56Z",
+          "updated_at": "2026-02-27T12:16:50Z",
+          "closed_at": null,
           "assignee": {
             "login": "Nitish36",
             "id": 91598274,
@@ -6370,7 +6516,7 @@
           },
           "timeline_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/timeline",
           "performed_via_github_app": null,
-          "state_reason": "completed",
+          "state_reason": "reopened",
           "pinned_comment": null
         }
       },
@@ -6438,7 +6584,7 @@
               "description": "New feature or request"
             }
           ],
-          "state": "closed",
+          "state": "open",
           "locked": false,
           "assignees": [
             {
@@ -6466,8 +6612,8 @@
           "milestone": null,
           "comments": 1,
           "created_at": "2026-02-26T05:10:01Z",
-          "updated_at": "2026-02-27T05:23:57Z",
-          "closed_at": "2026-02-27T05:23:56Z",
+          "updated_at": "2026-02-27T12:16:50Z",
+          "closed_at": null,
           "assignee": {
             "login": "Nitish36",
             "id": 91598274,
@@ -6516,7 +6662,7 @@
           },
           "timeline_url": "https://api.github.com/repos/Nitish36/Rasya-Traditions/issues/3/timeline",
           "performed_via_github_app": null,
-          "state_reason": "completed",
+          "state_reason": "reopened",
           "pinned_comment": null
         },
         "comment": {
@@ -7290,33 +7436,7 @@
       },
       "public": true,
       "created_at": "2026-02-26T10:30:44Z"
-    },
-    {
-      "id": "8826253488",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1165651300,
-        "name": "Nitish36/Nitish-GitHub-Portfolio-Dashboard",
-        "url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard"
-      },
-      "payload": {
-        "repository_id": 1165651300,
-        "push_id": 31120733247,
-        "ref": "refs/heads/main",
-        "head": "7512ad72a39d7741be711da3b1d3fc36fa074b9d",
-        "before": "d9a1cee42e8f3ffa3575ea28d07f45c646ac015c"
-      },
-      "public": true,
-      "created_at": "2026-02-26T10:29:15Z"
     }
   ],
-  "lastUpdated": "2/27/2026, 11:34:27 AM"
+  "lastUpdated": "2/27/2026, 1:04:32 PM"
 }
