@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1347921,
+    "disk_usage": 1347954,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3930,14 +3930,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-02-28T06:42:22Z",
-      "pushed_at": "2026-02-28T06:42:18Z",
+      "updated_at": "2026-02-28T07:29:32Z",
+      "pushed_at": "2026-02-28T07:29:28Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 173,
+      "size": 206,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -7475,5 +7475,5 @@
       "created_at": "2026-02-28T05:03:40Z"
     }
   ],
-  "lastUpdated": "2/28/2026, 7:29:28 AM"
+  "lastUpdated": "2/28/2026, 8:32:56 AM"
 }
