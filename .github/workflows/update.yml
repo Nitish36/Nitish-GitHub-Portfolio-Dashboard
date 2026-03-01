@@ -1,7 +1,7 @@
 name: Update Dashboard Data
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '30 16 * * *' # Runs every hour
   workflow_dispatch: # Allows you to click a button to run it manually
   
 permissions:
