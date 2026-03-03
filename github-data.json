@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1350536,
+    "disk_usage": 1350541,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3365,7 +3365,7 @@
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5179,
+      "size": 5182,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3930,14 +3930,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-03-02T07:51:11Z",
-      "pushed_at": "2026-03-02T07:51:07Z",
+      "updated_at": "2026-03-02T17:24:12Z",
+      "pushed_at": "2026-03-02T17:24:07Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 577,
+      "size": 579,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -4725,7 +4725,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 0,
+      "open_issues_count": 2,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -4740,7 +4740,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 0,
+      "open_issues": 2,
       "watchers": 3,
       "default_branch": "main",
       "permissions": {
@@ -7086,5 +7086,5 @@
       "created_at": "2026-03-01T09:57:08Z"
     }
   ],
-  "lastUpdated": "3/2/2026, 5:24:06 PM"
+  "lastUpdated": "3/3/2026, 6:03:35 AM"
 }
