@@ -32,11 +32,11 @@
     "followers": 47,
     "following": 38,
     "created_at": "2021-09-29T09:01:41Z",
-    "updated_at": "2026-02-24T15:00:19Z",
+    "updated_at": "2026-03-23T13:30:09Z",
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1355088,
+    "disk_usage": 1355202,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3358,14 +3358,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-03-22T16:52:09Z",
-      "pushed_at": "2026-03-22T16:52:05Z",
+      "updated_at": "2026-03-23T17:13:34Z",
+      "pushed_at": "2026-03-23T17:13:16Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5238,
+      "size": 5241,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3930,8 +3930,8 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-03-22T10:46:05Z",
-      "pushed_at": "2026-03-22T10:46:01Z",
+      "updated_at": "2026-03-23T11:07:47Z",
+      "pushed_at": "2026-03-23T11:07:43Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
@@ -5160,16 +5160,16 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/deployments",
       "created_at": "2026-03-20T08:11:19Z",
-      "updated_at": "2026-03-23T07:12:14Z",
-      "pushed_at": "2026-03-23T07:12:10Z",
+      "updated_at": "2026-03-24T10:45:46Z",
+      "pushed_at": "2026-03-24T10:45:42Z",
       "git_url": "git://github.com/Nitish36/Sheetops-Bot.git",
       "ssh_url": "git@github.com:Nitish36/Sheetops-Bot.git",
       "clone_url": "https://github.com/Nitish36/Sheetops-Bot.git",
       "svn_url": "https://github.com/Nitish36/Sheetops-Bot",
       "homepage": "https://sheetops-bot.vercel.app",
-      "size": 4425,
-      "stargazers_count": 0,
-      "watchers_count": 0,
+      "size": 4536,
+      "stargazers_count": 2,
+      "watchers_count": 2,
       "language": "HTML",
       "has_issues": true,
       "has_projects": true,
@@ -5192,7 +5192,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 0,
+      "watchers": 2,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -6323,7 +6323,7 @@
   ],
   "events": [
     {
-      "id": "9697521858",
+      "id": "9748405132",
       "type": "PushEvent",
       "actor": {
         "id": 91598274,
@@ -6340,16 +6340,16 @@
       },
       "payload": {
         "repository_id": 1186994753,
-        "push_id": 31990930721,
+        "push_id": 32041813368,
         "ref": "refs/heads/main",
-        "head": "b1e9ef6183aecf1b998a326de672dfc3a8bfeee8",
-        "before": "041b78ee323aa65402145465cc1b145ad18d4e07"
+        "head": "a927a982553850d11de34d1011f96a5cbd78718e",
+        "before": "c8e00d14d7a52df6abfc32101c4ecd7ed4b9b41e"
       },
       "public": true,
-      "created_at": "2026-03-23T07:12:11Z"
+      "created_at": "2026-03-24T10:45:43Z"
     },
     {
-      "id": "9696917137",
+      "id": "9747493598",
       "type": "PushEvent",
       "actor": {
         "id": 91598274,
@@ -6366,42 +6366,16 @@
       },
       "payload": {
         "repository_id": 1186994753,
-        "push_id": 31990325487,
+        "push_id": 32040901447,
         "ref": "refs/heads/main",
-        "head": "041b78ee323aa65402145465cc1b145ad18d4e07",
-        "before": "02a35d5a411d2959ea06d3239cdafc9c67c7a93a"
+        "head": "c8e00d14d7a52df6abfc32101c4ecd7ed4b9b41e",
+        "before": "fe563a9acb933eec7c3fe24c2b3f9bd3614d73b3"
       },
       "public": true,
-      "created_at": "2026-03-23T06:49:12Z"
+      "created_at": "2026-03-24T10:21:26Z"
     },
     {
-      "id": "9673623606",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 558791652,
-        "name": "Nitish36/Nitish36",
-        "url": "https://api.github.com/repos/Nitish36/Nitish36"
-      },
-      "payload": {
-        "repository_id": 558791652,
-        "push_id": 31967007224,
-        "ref": "refs/heads/main",
-        "head": "2668351a97f38c113cb02d4fb29cb9afdb9a005a",
-        "before": "9217b970b0d8759c10cc61ac5b43f92c94aeb93f"
-      },
-      "public": true,
-      "created_at": "2026-03-22T10:06:01Z"
-    },
-    {
-      "id": "9670193074",
+      "id": "9746813160",
       "type": "PushEvent",
       "actor": {
         "id": 91598274,
@@ -6418,16 +6392,16 @@
       },
       "payload": {
         "repository_id": 1186994753,
-        "push_id": 31963570724,
+        "push_id": 32040221214,
         "ref": "refs/heads/main",
-        "head": "02a35d5a411d2959ea06d3239cdafc9c67c7a93a",
-        "before": "3cb012dfd5c0327b718fa90ddd8a25cc3f5f45d1"
+        "head": "fe563a9acb933eec7c3fe24c2b3f9bd3614d73b3",
+        "before": "140e38055cb1bc1fc4047ef47437ad9d4a168701"
       },
       "public": true,
-      "created_at": "2026-03-22T06:02:16Z"
+      "created_at": "2026-03-24T10:03:53Z"
     },
     {
-      "id": "9670183651",
+      "id": "9746393156",
       "type": "PushEvent",
       "actor": {
         "id": 91598274,
@@ -6444,16 +6418,16 @@
       },
       "payload": {
         "repository_id": 1186994753,
-        "push_id": 31963561234,
+        "push_id": 32039800958,
         "ref": "refs/heads/main",
-        "head": "3cb012dfd5c0327b718fa90ddd8a25cc3f5f45d1",
-        "before": "841b7b48b70d4b0d995522dd0b5b89fa8a1d94c8"
+        "head": "140e38055cb1bc1fc4047ef47437ad9d4a168701",
+        "before": "f103f1a56c96cf1da1651ef1e85a0271c620f0d8"
       },
       "public": true,
-      "created_at": "2026-03-22T06:01:45Z"
+      "created_at": "2026-03-24T09:53:50Z"
     },
     {
-      "id": "9670179651",
+      "id": "9741779421",
       "type": "PushEvent",
       "actor": {
         "id": 91598274,
@@ -6470,17 +6444,17 @@
       },
       "payload": {
         "repository_id": 1186994753,
-        "push_id": 31963557253,
+        "push_id": 32035184430,
         "ref": "refs/heads/main",
-        "head": "841b7b48b70d4b0d995522dd0b5b89fa8a1d94c8",
-        "before": "e5743e92a8336b6cf37a7af2bec6c587d9a3fa76"
+        "head": "f103f1a56c96cf1da1651ef1e85a0271c620f0d8",
+        "before": "4955de94c1a609f7c2d659e92a1e9c6977764d53"
       },
       "public": true,
-      "created_at": "2026-03-22T06:01:33Z"
+      "created_at": "2026-03-24T07:34:10Z"
     },
     {
-      "id": "7632998707",
-      "type": "PublicEvent",
+      "id": "9740863858",
+      "type": "PushEvent",
       "actor": {
         "id": 91598274,
         "login": "Nitish36",
@@ -6494,104 +6468,18 @@
         "name": "Nitish36/Sheetops-Bot",
         "url": "https://api.github.com/repos/Nitish36/Sheetops-Bot"
       },
-      "payload": {},
-      "public": true,
-      "created_at": "2026-03-20T08:11:19Z"
-    },
-    {
-      "id": "7591484029",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 892662706,
-        "name": "Thanujak16/Thanujak16",
-        "url": "https://api.github.com/repos/Thanujak16/Thanujak16"
-      },
       "payload": {
-        "action": "merged",
-        "number": 6,
-        "pull_request": {
-          "url": "https://api.github.com/repos/Thanujak16/Thanujak16/pulls/6",
-          "id": 3424246668,
-          "number": 6,
-          "head": {
-            "ref": "patch-3",
-            "sha": "78314b268321290635a71a53f36146827f12178f",
-            "repo": {
-              "id": 965587514,
-              "url": "https://api.github.com/repos/Nitish36/Thanujak16",
-              "name": "Thanujak16"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "fc47e449cdd97351b76bc92166ec9d02f68513b8",
-            "repo": {
-              "id": 892662706,
-              "url": "https://api.github.com/repos/Thanujak16/Thanujak16",
-              "name": "Thanujak16"
-            }
-          }
-        }
+        "repository_id": 1186994753,
+        "push_id": 32034268177,
+        "ref": "refs/heads/main",
+        "head": "4955de94c1a609f7c2d659e92a1e9c6977764d53",
+        "before": "ec4ed9273f26e78e50e27a01a69c46a1694f5035"
       },
       "public": true,
-      "created_at": "2026-03-20T10:05:07Z"
+      "created_at": "2026-03-24T07:01:35Z"
     },
     {
-      "id": "7591476625",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 892662706,
-        "name": "Thanujak16/Thanujak16",
-        "url": "https://api.github.com/repos/Thanujak16/Thanujak16"
-      },
-      "payload": {
-        "action": "opened",
-        "number": 6,
-        "pull_request": {
-          "url": "https://api.github.com/repos/Thanujak16/Thanujak16/pulls/6",
-          "id": 3424246668,
-          "number": 6,
-          "head": {
-            "ref": "patch-3",
-            "sha": "78314b268321290635a71a53f36146827f12178f",
-            "repo": {
-              "id": 965587514,
-              "url": "https://api.github.com/repos/Nitish36/Thanujak16",
-              "name": "Thanujak16"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "fc47e449cdd97351b76bc92166ec9d02f68513b8",
-            "repo": {
-              "id": 892662706,
-              "url": "https://api.github.com/repos/Thanujak16/Thanujak16",
-              "name": "Thanujak16"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-03-20T10:04:49Z"
-    },
-    {
-      "id": "9617553154",
+      "id": "9738280544",
       "type": "PushEvent",
       "actor": {
         "id": 91598274,
@@ -6602,20 +6490,98 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
       },
       "repo": {
-        "id": 965587514,
-        "name": "Nitish36/Thanujak16",
-        "url": "https://api.github.com/repos/Nitish36/Thanujak16"
+        "id": 1186994753,
+        "name": "Nitish36/Sheetops-Bot",
+        "url": "https://api.github.com/repos/Nitish36/Sheetops-Bot"
       },
       "payload": {
-        "repository_id": 965587514,
-        "push_id": 31910899460,
-        "ref": "refs/heads/patch-3",
-        "head": "78314b268321290635a71a53f36146827f12178f",
-        "before": "fc47e449cdd97351b76bc92166ec9d02f68513b8"
+        "repository_id": 1186994753,
+        "push_id": 32031683453,
+        "ref": "refs/heads/main",
+        "head": "ec4ed9273f26e78e50e27a01a69c46a1694f5035",
+        "before": "0c168caab25b181fb540e5b5e3a364b7f606a737"
       },
       "public": true,
-      "created_at": "2026-03-20T10:04:31Z"
+      "created_at": "2026-03-24T05:18:52Z"
+    },
+    {
+      "id": "9738049706",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1186994753,
+        "name": "Nitish36/Sheetops-Bot",
+        "url": "https://api.github.com/repos/Nitish36/Sheetops-Bot"
+      },
+      "payload": {
+        "repository_id": 1186994753,
+        "push_id": 32031452487,
+        "ref": "refs/heads/main",
+        "head": "0c168caab25b181fb540e5b5e3a364b7f606a737",
+        "before": "fe4672d775415e74d2719526e7602e8868c86be9"
+      },
+      "public": true,
+      "created_at": "2026-03-24T05:08:34Z"
+    },
+    {
+      "id": "9737746468",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1186994753,
+        "name": "Nitish36/Sheetops-Bot",
+        "url": "https://api.github.com/repos/Nitish36/Sheetops-Bot"
+      },
+      "payload": {
+        "repository_id": 1186994753,
+        "push_id": 32031149128,
+        "ref": "refs/heads/main",
+        "head": "fe4672d775415e74d2719526e7602e8868c86be9",
+        "before": "f14a990ae5b07dcec45b7b94b262d11856c4bb98"
+      },
+      "public": true,
+      "created_at": "2026-03-24T04:55:17Z"
+    },
+    {
+      "id": "9737365711",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1186994753,
+        "name": "Nitish36/Sheetops-Bot",
+        "url": "https://api.github.com/repos/Nitish36/Sheetops-Bot"
+      },
+      "payload": {
+        "repository_id": 1186994753,
+        "push_id": 32030768125,
+        "ref": "refs/heads/main",
+        "head": "f14a990ae5b07dcec45b7b94b262d11856c4bb98",
+        "before": "c9c2907061d06f50505e3aa69be9d3db952a00b1"
+      },
+      "public": true,
+      "created_at": "2026-03-24T04:37:03Z"
     }
   ],
-  "lastUpdated": "3/23/2026, 11:07:42 AM"
+  "lastUpdated": "3/24/2026, 11:07:35 AM"
 }
