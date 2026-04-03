@@ -27,16 +27,16 @@
     "hireable": true,
     "bio": "Smartsheet Core Product Certified || Data Analyst-Operations || Python, SQL, ETL Pipelines, Prefect",
     "twitter_username": null,
-    "public_repos": 56,
+    "public_repos": 55,
     "public_gists": 0,
     "followers": 46,
     "following": 38,
     "created_at": "2021-09-29T09:01:41Z",
-    "updated_at": "2026-03-29T06:23:50Z",
+    "updated_at": "2026-04-03T07:22:24Z",
     "private_gists": 0,
-    "total_private_repos": 1,
-    "owned_private_repos": 1,
-    "disk_usage": 1356059,
+    "total_private_repos": 2,
+    "owned_private_repos": 2,
+    "disk_usage": 1356060,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3358,14 +3358,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-04-01T17:15:22Z",
-      "pushed_at": "2026-04-01T17:15:16Z",
+      "updated_at": "2026-04-02T17:13:15Z",
+      "pushed_at": "2026-04-02T17:13:11Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5266,
+      "size": 5269,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3930,14 +3930,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-04-01T11:12:32Z",
-      "pushed_at": "2026-04-01T11:12:28Z",
+      "updated_at": "2026-04-02T11:08:04Z",
+      "pushed_at": "2026-04-02T11:07:59Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 289,
+      "size": 287,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -5093,125 +5093,6 @@
       }
     },
     {
-      "id": 1186994753,
-      "node_id": "R_kgDORsAaQQ",
-      "name": "Sheetops-Bot",
-      "full_name": "Nitish36/Sheetops-Bot",
-      "private": false,
-      "owner": {
-        "login": "Nitish36",
-        "id": 91598274,
-        "node_id": "U_kgDOBXWtwg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "html_url": "https://github.com/Nitish36",
-        "followers_url": "https://api.github.com/users/Nitish36/followers",
-        "following_url": "https://api.github.com/users/Nitish36/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Nitish36/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Nitish36/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Nitish36/subscriptions",
-        "organizations_url": "https://api.github.com/users/Nitish36/orgs",
-        "repos_url": "https://api.github.com/users/Nitish36/repos",
-        "events_url": "https://api.github.com/users/Nitish36/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Nitish36/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/Nitish36/Sheetops-Bot",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/Nitish36/Sheetops-Bot",
-      "forks_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/forks",
-      "keys_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/teams",
-      "hooks_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/hooks",
-      "issue_events_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/events",
-      "assignees_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/tags",
-      "blobs_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/languages",
-      "stargazers_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/stargazers",
-      "contributors_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/contributors",
-      "subscribers_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/subscribers",
-      "subscription_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/subscription",
-      "commits_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/merges",
-      "archive_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/downloads",
-      "issues_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/labels{/name}",
-      "releases_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/Nitish36/Sheetops-Bot/deployments",
-      "created_at": "2026-03-20T08:11:19Z",
-      "updated_at": "2026-04-02T08:27:58Z",
-      "pushed_at": "2026-04-02T08:26:12Z",
-      "git_url": "git://github.com/Nitish36/Sheetops-Bot.git",
-      "ssh_url": "git@github.com:Nitish36/Sheetops-Bot.git",
-      "clone_url": "https://github.com/Nitish36/Sheetops-Bot.git",
-      "svn_url": "https://github.com/Nitish36/Sheetops-Bot",
-      "homepage": "https://sheetops-bot.vercel.app",
-      "size": 5214,
-      "stargazers_count": 2,
-      "watchers_count": 2,
-      "language": "HTML",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": false,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [
-        "bot",
-        "chatbot",
-        "css",
-        "gemini",
-        "gemini-api",
-        "html",
-        "javascript",
-        "python"
-      ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 2,
-      "default_branch": "main",
-      "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
-      }
-    },
-    {
       "id": 1139761590,
       "node_id": "R_kgDOQ-9htg",
       "name": "SheetOps-Smartsheet-Admin-Utilities",
@@ -6354,7 +6235,7 @@
         "head": "cff6fe797be730fccefd60416ee15a0c3fff478b",
         "before": "d9fa3801da044643fbcb9e3e97d2606965be0c07"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T08:26:13Z"
     },
     {
@@ -6380,7 +6261,7 @@
         "head": "d9fa3801da044643fbcb9e3e97d2606965be0c07",
         "before": "788adfe3dbc246fd2e4c32e0a4e126239bbb1fcc"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T07:17:08Z"
     },
     {
@@ -6406,7 +6287,7 @@
         "head": "788adfe3dbc246fd2e4c32e0a4e126239bbb1fcc",
         "before": "9908857b02eb7f1baa6b1c1d66f7ec0c1e393e69"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T06:58:37Z"
     },
     {
@@ -6432,7 +6313,7 @@
         "head": "9908857b02eb7f1baa6b1c1d66f7ec0c1e393e69",
         "before": "c6b6189cfa5950ef2d306226ccce44e4ec021ee2"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T06:41:34Z"
     },
     {
@@ -6458,7 +6339,7 @@
         "head": "c6b6189cfa5950ef2d306226ccce44e4ec021ee2",
         "before": "cd4948d51c29627363092022433d0b1fe6bebc92"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T06:07:38Z"
     },
     {
@@ -6484,7 +6365,7 @@
         "head": "cd4948d51c29627363092022433d0b1fe6bebc92",
         "before": "b97e76d33c73acd2e300651985122b4af0a2c438"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T05:53:54Z"
     },
     {
@@ -6510,7 +6391,7 @@
         "head": "b97e76d33c73acd2e300651985122b4af0a2c438",
         "before": "81b88d68108f2d9b911c0c62ed74fa096210223c"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T05:41:17Z"
     },
     {
@@ -6536,7 +6417,7 @@
         "head": "81b88d68108f2d9b911c0c62ed74fa096210223c",
         "before": "14b08071e273651e175a8ba974e27ed2100c1210"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T05:14:52Z"
     },
     {
@@ -6562,7 +6443,7 @@
         "head": "14b08071e273651e175a8ba974e27ed2100c1210",
         "before": "15df59fef27aa9020eb7a8ff5b701429d5274fd4"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T05:07:04Z"
     },
     {
@@ -6588,9 +6469,9 @@
         "head": "15df59fef27aa9020eb7a8ff5b701429d5274fd4",
         "before": "18d6241ca66c6c405e23dfbe3267323c6d62fb33"
       },
-      "public": true,
+      "public": false,
       "created_at": "2026-04-02T05:02:13Z"
     }
   ],
-  "lastUpdated": "4/2/2026, 11:07:59 AM"
+  "lastUpdated": "4/3/2026, 11:01:11 AM"
 }
