@@ -32,11 +32,11 @@
     "followers": 47,
     "following": 37,
     "created_at": "2021-09-29T09:01:41Z",
-    "updated_at": "2026-05-10T06:56:13Z",
+    "updated_at": "2026-05-24T15:02:47Z",
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1338214,
+    "disk_usage": 1338246,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-05-23T17:31:45Z",
-      "pushed_at": "2026-05-23T17:31:42Z",
+      "updated_at": "2026-05-24T17:29:56Z",
+      "pushed_at": "2026-05-24T17:29:52Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5399,
+      "size": 5402,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-05-23T11:33:18Z",
-      "pushed_at": "2026-05-23T11:33:14Z",
+      "updated_at": "2026-05-24T11:39:51Z",
+      "pushed_at": "2026-05-24T11:39:47Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 316,
+      "size": 345,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -5945,8 +5945,8 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant/deployments",
       "created_at": "2026-05-24T05:34:21Z",
-      "updated_at": "2026-05-24T07:35:18Z",
-      "pushed_at": "2026-05-24T07:35:14Z",
+      "updated_at": "2026-05-25T12:46:11Z",
+      "pushed_at": "2026-05-25T12:46:07Z",
       "git_url": "git://github.com/Nitish36/Titan-Research-Assistant.git",
       "ssh_url": "git@github.com:Nitish36/Titan-Research-Assistant.git",
       "clone_url": "https://github.com/Nitish36/Titan-Research-Assistant.git",
@@ -6105,6 +6105,58 @@
     }
   ],
   "events": [
+    {
+      "id": "12335748156",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1248042470,
+        "name": "Nitish36/Titan-Research-Assistant",
+        "url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant"
+      },
+      "payload": {
+        "repository_id": 1248042470,
+        "push_id": 34625962696,
+        "ref": "refs/heads/main",
+        "head": "cb24cc4ff808eacca52014f9d1ef5fb8a87b8897",
+        "before": "a355d8e2f3901501e2fbb855f6722d928af7eaf9"
+      },
+      "public": true,
+      "created_at": "2026-05-25T12:46:08Z"
+    },
+    {
+      "id": "12335537956",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1248042470,
+        "name": "Nitish36/Titan-Research-Assistant",
+        "url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant"
+      },
+      "payload": {
+        "repository_id": 1248042470,
+        "push_id": 34625752457,
+        "ref": "refs/heads/main",
+        "head": "a355d8e2f3901501e2fbb855f6722d928af7eaf9",
+        "before": "465d090fc66d9a63ac23a8aa50e8fa10e7a1bb2a"
+      },
+      "public": true,
+      "created_at": "2026-05-25T12:40:37Z"
+    },
     {
       "id": "12291093448",
       "type": "PushEvent",
@@ -6312,59 +6364,7 @@
       },
       "public": true,
       "created_at": "2026-05-24T06:00:19Z"
-    },
-    {
-      "id": "12289182638",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1248042470,
-        "name": "Nitish36/Titan-Research-Assistant",
-        "url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant"
-      },
-      "payload": {
-        "repository_id": 1248042470,
-        "push_id": 34579374308,
-        "ref": "refs/heads/main",
-        "head": "9ce7a5ac7a0a5ac1650a5656d0a779ee3eb8cc43",
-        "before": "b1fc79f82e4d37edfbfc8a1098acaa878a534539"
-      },
-      "public": true,
-      "created_at": "2026-05-24T05:50:05Z"
-    },
-    {
-      "id": "12289156670",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1248042470,
-        "name": "Nitish36/Titan-Research-Assistant",
-        "url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant"
-      },
-      "payload": {
-        "repository_id": 1248042470,
-        "push_id": 34579348282,
-        "ref": "refs/heads/main",
-        "head": "b1fc79f82e4d37edfbfc8a1098acaa878a534539",
-        "before": "ab5dd39e27932defb1d0b764bccacd6c036fd4c3"
-      },
-      "public": true,
-      "created_at": "2026-05-24T05:48:27Z"
     }
   ],
-  "lastUpdated": "5/24/2026, 11:39:47 AM"
+  "lastUpdated": "5/25/2026, 1:40:38 PM"
 }
