@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1340663,
+    "disk_usage": 1340696,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-05-30T17:34:35Z",
-      "pushed_at": "2026-05-30T17:34:31Z",
+      "updated_at": "2026-05-31T17:34:48Z",
+      "pushed_at": "2026-05-31T17:34:44Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5419,
+      "size": 5422,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-05-30T11:43:04Z",
-      "pushed_at": "2026-05-30T11:43:00Z",
+      "updated_at": "2026-05-31T11:49:11Z",
+      "pushed_at": "2026-05-31T11:49:07Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 404,
+      "size": 434,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -6406,5 +6406,5 @@
       "created_at": "2026-05-26T06:03:02Z"
     }
   ],
-  "lastUpdated": "5/31/2026, 11:49:06 AM"
+  "lastUpdated": "6/1/2026, 4:17:04 PM"
 }
