@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1340878,
+    "disk_usage": 1340937,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -451,17 +451,17 @@
       "releases_url": "https://api.github.com/repos/Nitish36/AQUI-Index/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/AQUI-Index/deployments",
       "created_at": "2026-01-29T08:13:20Z",
-      "updated_at": "2026-06-12T09:09:03Z",
-      "pushed_at": "2026-06-12T09:08:59Z",
+      "updated_at": "2026-06-13T10:56:01Z",
+      "pushed_at": "2026-06-13T10:55:57Z",
       "git_url": "git://github.com/Nitish36/AQUI-Index.git",
       "ssh_url": "git@github.com:Nitish36/AQUI-Index.git",
       "clone_url": "https://github.com/Nitish36/AQUI-Index.git",
       "svn_url": "https://github.com/Nitish36/AQUI-Index",
       "homepage": null,
-      "size": 111,
+      "size": 139,
       "stargazers_count": 1,
       "watchers_count": 1,
-      "language": "Python",
+      "language": "Jupyter Notebook",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-06-11T19:16:51Z",
-      "pushed_at": "2026-06-11T19:16:47Z",
+      "updated_at": "2026-06-12T18:22:03Z",
+      "pushed_at": "2026-06-12T18:21:59Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5444,
+      "size": 5446,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-06-11T14:14:36Z",
-      "pushed_at": "2026-06-11T14:11:24Z",
+      "updated_at": "2026-06-12T13:39:46Z",
+      "pushed_at": "2026-06-12T13:39:33Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 582,
+      "size": 611,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "JavaScript",
@@ -6106,6 +6106,58 @@
   ],
   "events": [
     {
+      "id": "13267782870",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 35555570948,
+        "ref": "refs/heads/main",
+        "head": "d82f346e5d9e686f12050dfcdba4271c9d1c302c",
+        "before": "3d6ff842dad00e5730b5fd251a70c4e5505b4d17"
+      },
+      "public": true,
+      "created_at": "2026-06-13T10:55:58Z"
+    },
+    {
+      "id": "13267766571",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 35555554673,
+        "ref": "refs/heads/main",
+        "head": "3d6ff842dad00e5730b5fd251a70c4e5505b4d17",
+        "before": "8b944826570148b8417e7c69daa2d5616b6fdea1"
+      },
+      "public": true,
+      "created_at": "2026-06-13T10:55:13Z"
+    },
+    {
       "id": "13216010021",
       "type": "PushEvent",
       "actor": {
@@ -6352,59 +6404,7 @@
       },
       "public": true,
       "created_at": "2026-05-26T08:55:26Z"
-    },
-    {
-      "id": "12373978688",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 999954509,
-        "name": "Nitish36/Thanuja-Data-Analyst-Portfolio",
-        "url": "https://api.github.com/repos/Nitish36/Thanuja-Data-Analyst-Portfolio"
-      },
-      "payload": {
-        "repository_id": 999954509,
-        "push_id": 34664206457,
-        "ref": "refs/heads/main",
-        "head": "e89cd96991b5092b4c8f1f6e6d88ffa2ed4acc2f",
-        "before": "a902d397d48c589553afd919bf722c5dbd9ed588"
-      },
-      "public": true,
-      "created_at": "2026-05-26T08:54:41Z"
-    },
-    {
-      "id": "12373921066",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 999954509,
-        "name": "Nitish36/Thanuja-Data-Analyst-Portfolio",
-        "url": "https://api.github.com/repos/Nitish36/Thanuja-Data-Analyst-Portfolio"
-      },
-      "payload": {
-        "repository_id": 999954509,
-        "push_id": 34664148815,
-        "ref": "refs/heads/main",
-        "head": "a902d397d48c589553afd919bf722c5dbd9ed588",
-        "before": "a68574af30b929ccfafad8e158a1b49ceb8cf5e7"
-      },
-      "public": true,
-      "created_at": "2026-05-26T08:53:18Z"
     }
   ],
-  "lastUpdated": "6/12/2026, 1:39:32 PM"
+  "lastUpdated": "6/13/2026, 12:01:43 PM"
 }
