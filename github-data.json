@@ -29,14 +29,14 @@
     "twitter_username": null,
     "public_repos": 54,
     "public_gists": 0,
-    "followers": 47,
+    "followers": 48,
     "following": 37,
     "created_at": "2021-09-29T09:01:41Z",
     "updated_at": "2026-05-29T05:52:58Z",
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1342079,
+    "disk_usage": 1342090,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -451,14 +451,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/AQUI-Index/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/AQUI-Index/deployments",
       "created_at": "2026-01-29T08:13:20Z",
-      "updated_at": "2026-06-15T14:38:14Z",
-      "pushed_at": "2026-06-15T14:35:44Z",
+      "updated_at": "2026-06-16T14:27:32Z",
+      "pushed_at": "2026-06-16T14:17:36Z",
       "git_url": "git://github.com/Nitish36/AQUI-Index.git",
       "ssh_url": "git@github.com:Nitish36/AQUI-Index.git",
       "clone_url": "https://github.com/Nitish36/AQUI-Index.git",
       "svn_url": "https://github.com/Nitish36/AQUI-Index",
-      "homepage": null,
-      "size": 1245,
+      "homepage": "https://aqui-index-sxgmpttpgbzacaq7gebkhm.streamlit.app/",
+      "size": 1252,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Jupyter Notebook",
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-06-14T17:54:29Z",
-      "pushed_at": "2026-06-14T17:54:25Z",
+      "updated_at": "2026-06-15T19:59:12Z",
+      "pushed_at": "2026-06-15T19:59:08Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 5452,
+      "size": 5455,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-06-14T12:13:07Z",
-      "pushed_at": "2026-06-14T12:13:02Z",
+      "updated_at": "2026-06-15T16:05:43Z",
+      "pushed_at": "2026-06-15T16:04:58Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 641,
+      "size": 642,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "JavaScript",
@@ -6106,6 +6106,110 @@
   ],
   "events": [
     {
+      "id": "13411972306",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 35699985978,
+        "ref": "refs/heads/main",
+        "head": "3a9d58a70cae91cc271fcc271a3c575f7faf7af7",
+        "before": "ba4f1fda9aef4a725414bb8ae3ebd67fc7f3b87c"
+      },
+      "public": true,
+      "created_at": "2026-06-16T14:17:36Z"
+    },
+    {
+      "id": "13411912981",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 35699926070,
+        "ref": "refs/heads/main",
+        "head": "ba4f1fda9aef4a725414bb8ae3ebd67fc7f3b87c",
+        "before": "44de0f317fe6c340457eb9165fc4750889c06363"
+      },
+      "public": true,
+      "created_at": "2026-06-16T14:16:30Z"
+    },
+    {
+      "id": "13411525802",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 35699532064,
+        "ref": "refs/heads/main",
+        "head": "44de0f317fe6c340457eb9165fc4750889c06363",
+        "before": "ca335d83e3f877ab9707e417454a6e65bfaff25a"
+      },
+      "public": true,
+      "created_at": "2026-06-16T14:09:15Z"
+    },
+    {
+      "id": "13396921445",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 35684776287,
+        "ref": "refs/heads/main",
+        "head": "ca335d83e3f877ab9707e417454a6e65bfaff25a",
+        "before": "839b62da24358d10d2e95a9ae6df85ca3c56c4fa"
+      },
+      "public": true,
+      "created_at": "2026-06-16T09:05:53Z"
+    },
+    {
       "id": "13354564363",
       "type": "PushEvent",
       "actor": {
@@ -6260,111 +6364,7 @@
       },
       "public": true,
       "created_at": "2026-06-12T09:02:09Z"
-    },
-    {
-      "id": "13214789533",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1144937285,
-        "name": "Nitish36/AQUI-Index",
-        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
-      },
-      "payload": {
-        "repository_id": 1144937285,
-        "push_id": 35502965904,
-        "ref": "refs/heads/main",
-        "head": "bf519d30ad9f8b1b74dba7afa4d6bcd753d94f82",
-        "before": "3c8a18de54d9e2a0cb63e8b927ad5244b909022c"
-      },
-      "public": true,
-      "created_at": "2026-06-12T08:41:41Z"
-    },
-    {
-      "id": "13214463035",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1144937285,
-        "name": "Nitish36/AQUI-Index",
-        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
-      },
-      "payload": {
-        "repository_id": 1144937285,
-        "push_id": 35502640636,
-        "ref": "refs/heads/main",
-        "head": "3c8a18de54d9e2a0cb63e8b927ad5244b909022c",
-        "before": "5c0bf70ca2fcf97ee0ff9628cf01b240c8e99ba2"
-      },
-      "public": true,
-      "created_at": "2026-06-12T08:34:04Z"
-    },
-    {
-      "id": "12603083313",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1248042470,
-        "name": "Nitish36/Titan-Research-Assistant",
-        "url": "https://api.github.com/repos/Nitish36/Titan-Research-Assistant"
-      },
-      "payload": {
-        "repository_id": 1248042470,
-        "push_id": 34892691576,
-        "ref": "refs/heads/main",
-        "head": "6381714a6367b74c0d40c204a49dfbdf5f6f8ece",
-        "before": "ed48694b7a30809e93839c50fe9afa6efb91b481"
-      },
-      "public": true,
-      "created_at": "2026-05-31T05:21:48Z"
-    },
-    {
-      "id": "12374068376",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 999954509,
-        "name": "Nitish36/Thanuja-Data-Analyst-Portfolio",
-        "url": "https://api.github.com/repos/Nitish36/Thanuja-Data-Analyst-Portfolio"
-      },
-      "payload": {
-        "repository_id": 999954509,
-        "push_id": 34664295887,
-        "ref": "refs/heads/main",
-        "head": "3390dcb76de91059dc24f22f1c341e515f9db1c3",
-        "before": "e89cd96991b5092b4c8f1f6e6d88ffa2ed4acc2f"
-      },
-      "public": true,
-      "created_at": "2026-05-26T08:56:46Z"
     }
   ],
-  "lastUpdated": "6/15/2026, 4:04:57 PM"
+  "lastUpdated": "6/16/2026, 3:21:39 PM"
 }
