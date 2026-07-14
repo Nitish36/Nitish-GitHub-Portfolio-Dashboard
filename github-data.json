@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1342053,
+    "disk_usage": 1342085,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -451,14 +451,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/AQUI-Index/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/AQUI-Index/deployments",
       "created_at": "2026-01-29T08:13:20Z",
-      "updated_at": "2026-07-05T04:12:39Z",
-      "pushed_at": "2026-07-05T04:12:36Z",
+      "updated_at": "2026-07-14T10:25:17Z",
+      "pushed_at": "2026-07-14T10:25:13Z",
       "git_url": "git://github.com/Nitish36/AQUI-Index.git",
       "ssh_url": "git@github.com:Nitish36/AQUI-Index.git",
       "clone_url": "https://github.com/Nitish36/AQUI-Index.git",
       "svn_url": "https://github.com/Nitish36/AQUI-Index",
       "homepage": "https://aqui-index-sxgmpttpgbzacaq7gebkhm.streamlit.app/",
-      "size": 1261,
+      "size": 1264,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Jupyter Notebook",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-07-12T11:22:20Z",
-      "pushed_at": "2026-07-12T11:22:15Z",
+      "updated_at": "2026-07-13T12:42:31Z",
+      "pushed_at": "2026-07-13T12:40:29Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 320,
+      "size": 349,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "JavaScript",
@@ -6106,6 +6106,32 @@
   ],
   "events": [
     {
+      "id": "14954222783",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 37244252935,
+        "ref": "refs/heads/main",
+        "head": "1d27fbb50b5ec4d15414869608ecc7c24e6c52a8",
+        "before": "96849435a5c97463bda224437a5c0118e25db483"
+      },
+      "public": true,
+      "created_at": "2026-07-14T10:25:13Z"
+    },
+    {
       "id": "14401255125",
       "type": "PushEvent",
       "actor": {
@@ -6338,33 +6364,7 @@
       },
       "public": true,
       "created_at": "2026-06-15T14:35:45Z"
-    },
-    {
-      "id": "13273532727",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1144937285,
-        "name": "Nitish36/AQUI-Index",
-        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
-      },
-      "payload": {
-        "repository_id": 1144937285,
-        "push_id": 35561329244,
-        "ref": "refs/heads/main",
-        "head": "8a5653dd84daa65c64e0968448b9a3309f7a66ec",
-        "before": "d82f346e5d9e686f12050dfcdba4271c9d1c302c"
-      },
-      "public": true,
-      "created_at": "2026-06-13T14:41:47Z"
     }
   ],
-  "lastUpdated": "7/13/2026, 12:40:28 PM"
+  "lastUpdated": "7/14/2026, 11:42:01 AM"
 }
