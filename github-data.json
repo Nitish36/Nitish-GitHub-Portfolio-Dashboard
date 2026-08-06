@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1345308,
+    "disk_usage": 1345447,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-08-04T18:10:07Z",
-      "pushed_at": "2026-08-04T18:09:34Z",
+      "updated_at": "2026-08-05T18:00:31Z",
+      "pushed_at": "2026-08-05T17:59:33Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 6542,
+      "size": 6545,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-08-04T12:16:28Z",
-      "pushed_at": "2026-08-04T12:15:35Z",
+      "updated_at": "2026-08-05T12:14:32Z",
+      "pushed_at": "2026-08-05T12:12:43Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 672,
+      "size": 673,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "JavaScript",
@@ -4593,14 +4593,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/RR-Solutions-Inspection-Portal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/RR-Solutions-Inspection-Portal/deployments",
       "created_at": "2026-02-15T05:20:33Z",
-      "updated_at": "2026-08-05T11:50:26Z",
-      "pushed_at": "2026-08-05T11:50:17Z",
+      "updated_at": "2026-08-05T15:50:16Z",
+      "pushed_at": "2026-08-05T15:48:45Z",
       "git_url": "git://github.com/Nitish36/RR-Solutions-Inspection-Portal.git",
       "ssh_url": "git@github.com:Nitish36/RR-Solutions-Inspection-Portal.git",
       "clone_url": "https://github.com/Nitish36/RR-Solutions-Inspection-Portal.git",
       "svn_url": "https://github.com/Nitish36/RR-Solutions-Inspection-Portal",
       "homepage": "https://rr-solutions-inspection-portal.onrender.com/",
-      "size": 4252,
+      "size": 4387,
       "stargazers_count": 2,
       "watchers_count": 2,
       "language": "JavaScript",
@@ -6106,6 +6106,58 @@
   ],
   "events": [
     {
+      "id": "16827131594",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1158289944,
+        "name": "Nitish36/RR-Solutions-Inspection-Portal",
+        "url": "https://api.github.com/repos/Nitish36/RR-Solutions-Inspection-Portal"
+      },
+      "payload": {
+        "repository_id": 1158289944,
+        "push_id": 39140964970,
+        "ref": "refs/heads/main",
+        "head": "8c9ee3c43b7a4fcb9516d2af3c15a5a38a10df49",
+        "before": "4768994de944b64ab008ab39dd64af1802c73b89"
+      },
+      "public": true,
+      "created_at": "2026-08-05T15:48:46Z"
+    },
+    {
+      "id": "16817548934",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1158289944,
+        "name": "Nitish36/RR-Solutions-Inspection-Portal",
+        "url": "https://api.github.com/repos/Nitish36/RR-Solutions-Inspection-Portal"
+      },
+      "payload": {
+        "repository_id": 1158289944,
+        "push_id": 39133512164,
+        "ref": "refs/heads/main",
+        "head": "4768994de944b64ab008ab39dd64af1802c73b89",
+        "before": "23909fba810088e30b001fa53b946831c6192728"
+      },
+      "public": true,
+      "created_at": "2026-08-05T14:28:05Z"
+    },
+    {
       "id": "16802768839",
       "type": "PushEvent",
       "actor": {
@@ -6260,33 +6312,7 @@
       },
       "public": true,
       "created_at": "2026-07-14T10:25:13Z"
-    },
-    {
-      "id": "14401255125",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 744015146,
-        "name": "Nitish36/Power-BI-Projects",
-        "url": "https://api.github.com/repos/Nitish36/Power-BI-Projects"
-      },
-      "payload": {
-        "repository_id": 744015146,
-        "push_id": 36690531103,
-        "ref": "refs/heads/main",
-        "head": "b69a1048f51b7ea96b935aea46928097836168d1",
-        "before": "808577df900d900a00aa5d9e4069b445fa759f8f"
-      },
-      "public": true,
-      "created_at": "2026-07-06T06:04:57Z"
     }
   ],
-  "lastUpdated": "8/5/2026, 12:12:41 PM"
+  "lastUpdated": "8/6/2026, 12:15:03 PM"
 }
