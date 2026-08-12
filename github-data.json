@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1345547,
+    "disk_usage": 1345550,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-08-10T17:15:47Z",
-      "pushed_at": "2026-08-10T17:14:50Z",
+      "updated_at": "2026-08-11T17:24:48Z",
+      "pushed_at": "2026-08-11T17:24:35Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 6557,
+      "size": 6560,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,8 +3704,8 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-08-10T11:19:25Z",
-      "pushed_at": "2026-08-10T11:18:49Z",
+      "updated_at": "2026-08-11T11:02:54Z",
+      "pushed_at": "2026-08-11T11:02:06Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
@@ -6343,5 +6343,5 @@
       "created_at": "2026-07-14T10:25:13Z"
     }
   ],
-  "lastUpdated": "8/11/2026, 11:02:05 AM"
+  "lastUpdated": "8/12/2026, 11:08:24 AM"
 }
