@@ -29,14 +29,14 @@
     "twitter_username": null,
     "public_repos": 54,
     "public_gists": 0,
-    "followers": 51,
+    "followers": 50,
     "following": 37,
     "created_at": "2021-09-29T09:01:41Z",
-    "updated_at": "2026-08-02T13:35:23Z",
+    "updated_at": "2026-08-16T04:38:24Z",
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1345617,
+    "disk_usage": 1345623,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -451,14 +451,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/AQUI-Index/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/AQUI-Index/deployments",
       "created_at": "2026-01-29T08:13:20Z",
-      "updated_at": "2026-07-28T13:08:33Z",
-      "pushed_at": "2026-07-28T13:06:28Z",
+      "updated_at": "2026-08-16T04:39:06Z",
+      "pushed_at": "2026-08-16T04:38:57Z",
       "git_url": "git://github.com/Nitish36/AQUI-Index.git",
       "ssh_url": "git@github.com:Nitish36/AQUI-Index.git",
       "clone_url": "https://github.com/Nitish36/AQUI-Index.git",
       "svn_url": "https://github.com/Nitish36/AQUI-Index",
       "homepage": "https://aqui-index-sxgmpttpgbzacaq7gebkhm.streamlit.app/",
-      "size": 1270,
+      "size": 1273,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Jupyter Notebook",
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-08-14T17:25:32Z",
-      "pushed_at": "2026-08-14T17:22:54Z",
+      "updated_at": "2026-08-15T16:46:52Z",
+      "pushed_at": "2026-08-15T16:46:42Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 6568,
+      "size": 6571,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,8 +3704,8 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-08-14T11:06:59Z",
-      "pushed_at": "2026-08-14T11:06:46Z",
+      "updated_at": "2026-08-15T10:35:59Z",
+      "pushed_at": "2026-08-15T10:35:19Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
@@ -6106,6 +6106,32 @@
   ],
   "events": [
     {
+      "id": "17794490228",
+      "type": "PushEvent",
+      "actor": {
+        "id": 91598274,
+        "login": "Nitish36",
+        "display_login": "Nitish36",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Nitish36",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
+      },
+      "repo": {
+        "id": 1144937285,
+        "name": "Nitish36/AQUI-Index",
+        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
+      },
+      "payload": {
+        "repository_id": 1144937285,
+        "push_id": 40118507322,
+        "ref": "refs/heads/main",
+        "head": "0c0cdcb1c4382a8787b028d4b8c44f6888d011be",
+        "before": "c5eb196891b3134570fa187ca284633f5b37cd53"
+      },
+      "public": true,
+      "created_at": "2026-08-16T04:38:57Z"
+    },
+    {
       "id": "12880503728",
       "type": "WatchEvent",
       "actor": {
@@ -6317,5 +6343,5 @@
       "created_at": "2026-07-19T04:05:31Z"
     }
   ],
-  "lastUpdated": "8/15/2026, 10:35:17 AM"
+  "lastUpdated": "8/16/2026, 10:36:06 AM"
 }
