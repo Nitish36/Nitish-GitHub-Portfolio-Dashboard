@@ -36,7 +36,7 @@
     "private_gists": 0,
     "total_private_repos": 1,
     "owned_private_repos": 1,
-    "disk_usage": 1345659,
+    "disk_usage": 1345691,
     "collaborators": 0,
     "two_factor_authentication": true,
     "plan": {
@@ -3132,14 +3132,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Live-WeatherData-ETL/deployments",
       "created_at": "2024-04-04T14:16:08Z",
-      "updated_at": "2026-08-17T16:52:43Z",
-      "pushed_at": "2026-08-17T16:51:36Z",
+      "updated_at": "2026-08-18T16:54:31Z",
+      "pushed_at": "2026-08-18T16:54:22Z",
       "git_url": "git://github.com/Nitish36/Live-WeatherData-ETL.git",
       "ssh_url": "git@github.com:Nitish36/Live-WeatherData-ETL.git",
       "clone_url": "https://github.com/Nitish36/Live-WeatherData-ETL.git",
       "svn_url": "https://github.com/Nitish36/Live-WeatherData-ETL",
       "homepage": "https://lookerstudio.google.com/u/0/reporting/e39e6cee-f049-47ff-bfb8-6134c2c30072",
-      "size": 6577,
+      "size": 6580,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3704,14 +3704,14 @@
       "releases_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Nitish36/Nitish-GitHub-Portfolio-Dashboard/deployments",
       "created_at": "2026-02-24T11:53:22Z",
-      "updated_at": "2026-08-17T10:46:06Z",
-      "pushed_at": "2026-08-17T10:45:39Z",
+      "updated_at": "2026-08-18T10:43:22Z",
+      "pushed_at": "2026-08-18T10:43:18Z",
       "git_url": "git://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "ssh_url": "git@github.com:Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "clone_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard.git",
       "svn_url": "https://github.com/Nitish36/Nitish-GitHub-Portfolio-Dashboard",
       "homepage": "https://nitish36.github.io/Nitish-GitHub-Portfolio-Dashboard/",
-      "size": 850,
+      "size": 879,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "JavaScript",
@@ -6315,33 +6315,7 @@
       },
       "public": true,
       "created_at": "2026-07-28T13:06:28Z"
-    },
-    {
-      "id": "15276714663",
-      "type": "PushEvent",
-      "actor": {
-        "id": 91598274,
-        "login": "Nitish36",
-        "display_login": "Nitish36",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Nitish36",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91598274?"
-      },
-      "repo": {
-        "id": 1144937285,
-        "name": "Nitish36/AQUI-Index",
-        "url": "https://api.github.com/repos/Nitish36/AQUI-Index"
-      },
-      "payload": {
-        "repository_id": 1144937285,
-        "push_id": 37567604629,
-        "ref": "refs/heads/main",
-        "head": "f076afd4749b9b3794e60b36c6b314249a718d59",
-        "before": "1d27fbb50b5ec4d15414869608ecc7c24e6c52a8"
-      },
-      "public": true,
-      "created_at": "2026-07-19T04:05:31Z"
     }
   ],
-  "lastUpdated": "8/18/2026, 10:43:16 AM"
+  "lastUpdated": "8/19/2026, 10:42:53 AM"
 }
